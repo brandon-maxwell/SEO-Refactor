@@ -1,5 +1,4 @@
 # SEO-Refactor
---------------
 This repository includes refracted code for the Horiseon website to improve accessibility standards and make it optimized for search engines.
 
 ## How the Project Should Look
