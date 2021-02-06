@@ -4,7 +4,7 @@ This repository includes refracted code for the Horiseon website to improve acce
 
 ## How the Project Should Look
 
-![project screenshot](assets/screenshot.png)
+![project screenshot](Assets/screenshot.png)
 
 ## Credits
 #### Inspiration by:
